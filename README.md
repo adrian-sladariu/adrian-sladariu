@@ -11,3 +11,5 @@ SUERTE !!!
 Mi juego favorito es: Es posible que tu juego favorito sea el The Last Of Us ?
 
 Si, como lo sabías?
+
+Porque soy un crack
