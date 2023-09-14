@@ -12,9 +12,6 @@ Mi juego favorito es: Es posible que tu juego favorito sea el The Last Of Us ?
 
 Si, como lo sabías?
 
-<<<<<<< HEAD
 
 Porque soy un crack
-=======
-Porque soy un crack
->>>>>>> 93b9649cb82626999331f5d2c8b5d73811882abd
+
