@@ -8,4 +8,4 @@ Si adivinas cual es mi juego favorito te regalo 1M€.
 
 SUERTE !!!
 
-Mi juego favorito es: (Inserta aquí tu elección)
+Mi juego favorito es: Es posible que tu juego favorito sea el The Last Of Us ?
